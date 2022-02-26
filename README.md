@@ -52,11 +52,4 @@ The project files are organized as follows:
 
 - Python 3.8.0
 
-## Authors
-
----
-
-- Samuel Kaleopa Assignment- Create README.md file, gathered all Email: samuelkaleopa9@gmail.com
-- Stephanie Pena Assignment - Display Points and Movement of Gems/Rocks and Player Email: Stephaniepenac@yahoo.com
-- Carlos Chafoya Assignment - Remove artifacts when touched
-- Jhosep Bailon Assignment - ????
+## Authors - Samuel Kaleopa Assignment- I did all by myself I've been contacting my group but no one reply
