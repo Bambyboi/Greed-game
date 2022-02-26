@@ -52,4 +52,4 @@ The project files are organized as follows:
 
 - Python 3.8.0
 
-## Authors - Samuel Kaleopa Assignment- I did all by myself I've been contacting my group but no one reply
+## Authors - Samuel Kaleopa Assignment- I did all by myself and a help from other members of other teams and I've been contacting my group so many times but no one reply
